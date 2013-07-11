@@ -1,4 +1,4 @@
 OBS-iOS
 =======
 
-iOS native application for Open Bible Stories.
+Native iOS application for Open Bible Stories.
